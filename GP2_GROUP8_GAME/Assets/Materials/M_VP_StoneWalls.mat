@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_VP_StoneWalls
+  m_Shader: {fileID: 4800000, guid: 9b55f57737df08e4f82d246bc16236ba, type: 3}
+  m_ShaderKeywords: _COLORTINT_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ARM:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BC:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height01:
+        m_Texture: {fileID: 2800000, guid: 5af7a8444aca24d49aa1a5b57875bcaa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height12:
+        m_Texture: {fileID: 2800000, guid: 5af7a8444aca24d49aa1a5b57875bcaa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer01_Height:
+        m_Texture: {fileID: 2800000, guid: 5af7a8444aca24d49aa1a5b57875bcaa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer0_ARM:
+        m_Texture: {fileID: 2800000, guid: 4a02e19b4bf1fcf4682db912a425e0c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer0_BC:
+        m_Texture: {fileID: 2800000, guid: c2cdbda067623bf4294a83761f279834, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer0_N:
+        m_Texture: {fileID: 2800000, guid: 5134a6a88e4663f4c9ffd7991f0b2e84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer1_ARM:
+        m_Texture: {fileID: 2800000, guid: 0ca2d0d43be74f440987fa828ef421b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer1_BC:
+        m_Texture: {fileID: 2800000, guid: ad633b65144d3a949a57d3164397e8b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer1_N:
+        m_Texture: {fileID: 2800000, guid: 55f923b9132ae514ca84a60426f134fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer2_ARM:
+        m_Texture: {fileID: 2800000, guid: bbd6dc29b52ea7a449063ff875413c42, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer2_BC:
+        m_Texture: {fileID: 2800000, guid: ce4f7c06b53e8d941a4f243a43e05595, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer2_N:
+        m_Texture: {fileID: 2800000, guid: b37001d4c59ea994b8870e406c1a776f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_00_ARM:
+        m_Texture: {fileID: 2800000, guid: fb7e41efec1a3ae4a8b9b245c79eb737, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_00_BC:
+        m_Texture: {fileID: 2800000, guid: 17f0c9cbc765d6b49aa69730e54031cf, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_00_N:
+        m_Texture: {fileID: 2800000, guid: fe4cbe0889243fc478b60cb16033cca7, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_01_ARM:
+        m_Texture: {fileID: 2800000, guid: 835a60c8304d43d4d806735603e9fd96, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_01_BC:
+        m_Texture: {fileID: 2800000, guid: 873f183bd956dd74ead0e838e77b8c9d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_01_N:
+        m_Texture: {fileID: 2800000, guid: 16c0d0196eaab2c48a0ac9531414aed9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_02_ARM:
+        m_Texture: {fileID: 2800000, guid: 835a60c8304d43d4d806735603e9fd96, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_02_BC:
+        m_Texture: {fileID: 2800000, guid: 873f183bd956dd74ead0e838e77b8c9d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_02_N:
+        m_Texture: {fileID: 2800000, guid: 16c0d0196eaab2c48a0ac9531414aed9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _N:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Overlay:
+        m_Texture: {fileID: 2800000, guid: 873f183bd956dd74ead0e838e77b8c9d, type: 3}
+        m_Scale: {x: 0.2, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _Stone_Less_ARM:
+        m_Texture: {fileID: 2800000, guid: 835a60c8304d43d4d806735603e9fd96, type: 3}
+        m_Scale: {x: 0.2, y: 0.2}
+        m_Offset: {x: 0, y: 0}
+    - _Stone_Less_N:
+        m_Texture: {fileID: 2800000, guid: 16c0d0196eaab2c48a0ac9531414aed9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _BlendFactor: 0
+    - _BlendFallof: 0
+    - _BlendStrenght01: 1
+    - _BlendStrenght12: 1
+    - _ColorTint: 1
+    - _Contrast01: 1
+    - _Contrast12: 1
+    - _Layer00_Contrast: 1
+    - _Layer_00_Birghtness: 1
+    - _Multiply01: 1
+    - _Multiply12: 1
+    - _OpenGL: 0
+    - _TessMax: 25
+    - _TessMin: 10
+    - _TessValue: 16
+    - _TesselationStrenght: 1
+    - _TransAmbient: 0
+    - _TransDirect: 1
+    - _TransNormal: 0
+    - _TransScattering: 1
+    - _TransShadow: 0
+    - _TransStrength: 0
+    m_Colors:
+    - _AlbedoTint: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer_00_Tint: {r: 1, g: 1, b: 1, a: 0}
+    - _Layer_01_Tint: {r: 1, g: 1, b: 1, a: 0}
+    - _Layer_02_Tint: {r: 0.7264151, g: 0.7264151, b: 0.7264151, a: 0}
+  m_BuildTextureStacks: []

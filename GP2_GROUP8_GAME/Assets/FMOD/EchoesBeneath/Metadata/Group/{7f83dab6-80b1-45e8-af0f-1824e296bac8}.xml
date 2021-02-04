@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="MixerGroup" id="{7f83dab6-80b1-45e8-af0f-1824e296bac8}">
+		<property name="volume">
+			<value>3</value>
+		</property>
+		<property name="name">
+			<value>Jingles</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{c78241e0-f41f-484f-9536-be44287a3fef}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{8c9fcae4-29e2-48b7-bed8-a879177de179}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{292cd7f3-58b6-4f63-8bff-f1b4c0a72f2f}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{c78241e0-f41f-484f-9536-be44287a3fef}">
+		<relationship name="effects">
+			<destination>{c5e7d48d-37a9-48dd-85b5-1df32c408c1a}</destination>
+			<destination>{4ef9293e-2c8b-4ad8-9c34-f8d5777aaa3a}</destination>
+			<destination>{9235f818-c5c3-45d3-a9b0-8bd202919167}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{8c9fcae4-29e2-48b7-bed8-a879177de179}" />
+	<object class="Sidechain" id="{c5e7d48d-37a9-48dd-85b5-1df32c408c1a}" />
+	<object class="SFXReverbEffect" id="{4ef9293e-2c8b-4ad8-9c34-f8d5777aaa3a}">
+		<property name="decayTime">
+			<value>400</value>
+		</property>
+		<property name="earlyDelay">
+			<value>2</value>
+		</property>
+		<property name="lateDelay">
+			<value>3</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>83</value>
+		</property>
+		<property name="highCut">
+			<value>6050</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>88</value>
+		</property>
+		<property name="wetLevel">
+			<value>-9.39999962</value>
+		</property>
+	</object>
+	<object class="MixerBusFader" id="{9235f818-c5c3-45d3-a9b0-8bd202919167}" />
+</objects>

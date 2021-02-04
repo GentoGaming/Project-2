@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Stone_Tess
+  m_Shader: {fileID: 4800000, guid: 2c2f544e856c9b54b8719786c280c3a6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ARM:
+        m_Texture: {fileID: 2800000, guid: 4a02e19b4bf1fcf4682db912a425e0c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BC:
+        m_Texture: {fileID: 2800000, guid: c2cdbda067623bf4294a83761f279834, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height:
+        m_Texture: {fileID: 2800000, guid: d9893846266e396459bee92a43d60c53, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height01:
+        m_Texture: {fileID: 2800000, guid: d9893846266e396459bee92a43d60c53, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height12:
+        m_Texture: {fileID: 2800000, guid: d9893846266e396459bee92a43d60c53, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_00_ARM:
+        m_Texture: {fileID: 2800000, guid: 0ca2d0d43be74f440987fa828ef421b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_00_BC:
+        m_Texture: {fileID: 2800000, guid: c2cdbda067623bf4294a83761f279834, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_00_N:
+        m_Texture: {fileID: 2800000, guid: 5134a6a88e4663f4c9ffd7991f0b2e84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_01_ARM:
+        m_Texture: {fileID: 2800000, guid: 4a02e19b4bf1fcf4682db912a425e0c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_01_BC:
+        m_Texture: {fileID: 2800000, guid: ad633b65144d3a949a57d3164397e8b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_01_N:
+        m_Texture: {fileID: 2800000, guid: 55f923b9132ae514ca84a60426f134fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_02_ARM:
+        m_Texture: {fileID: 2800000, guid: bbd6dc29b52ea7a449063ff875413c42, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_02_BC:
+        m_Texture: {fileID: 2800000, guid: c2cdbda067623bf4294a83761f279834, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Layer_02_N:
+        m_Texture: {fileID: 2800000, guid: 5134a6a88e4663f4c9ffd7991f0b2e84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _N:
+        m_Texture: {fileID: 2800000, guid: 55f923b9132ae514ca84a60426f134fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _BlendStrenght01: 1
+    - _BlendStrenght12: 1
+    - _Contrast01: 1
+    - _Contrast12: 0.28
+    - _HeightTesselationamount: 0
+    - _Multiply01: 1
+    - _Multiply12: 0.03
+    - _TessEdgeLength: 50
+    - _TessMax: 6
+    - _TessMaxDisp: 25
+    - _TessMin: 3
+    - _TessPhongStrength: 0
+    - _TessValue: 32
+    - _TesselationStrenght: 0.08
+    - _TransAmbient: 0.1
+    - _TransDirect: 0.9
+    - _TransNormal: 0.5
+    - _TransScattering: 2
+    - _TransShadow: 0.5
+    - _TransStrength: 0
+    m_Colors:
+    - _AlbedoTint: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Tint: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

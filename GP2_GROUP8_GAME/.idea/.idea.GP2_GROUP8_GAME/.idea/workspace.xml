@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d55040dc-7d08-4ad9-b425-a9943c99f79b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interaction/PressingButtonInteaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Preforce/FG20FT_GP_Team_4/BreakroomGames/ProjectBreak/Assets/__Game/Scripts/EventSystem/EventManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/ParticleSettingsEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Preforce/FG20FT_GP_Team_4/BreakroomGames/ProjectBreak/Assets/__Game/Scripts/EventSystem/EventInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/testScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.settings-manager@1.0.3/Editor/PackageSettingsRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/SoundScaryEditorEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Custom Event System/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/ScaryInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/FMOD Sound Event/EventInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New Unity Project/Library/PackageCache/com.unity.timeline@1.2.14/Runtime/Utilities/AnimatorBindingCache.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/FmodScaryEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Other/DestroySelfParticle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Electric Puzzle/Electric.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/PosRotEditorScaryEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/ScaryEventAbstract.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/ObjectsShakeScaryEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/Other/ParticleSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/ParticleScaryEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Electric Puzzle/ElectricNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../URPARC/Library/PackageCache/com.unity.render-pipelines.universal@8.2.0/Editor/ShaderGraph/SubShaders/UniversalUnlitSubShader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/BloodTrailScaryEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Preforce/FG20FT_GP_Team_4/BreakroomGames/ProjectBreak/Assets/__Game/Scripts/EventSystem/HjalmarEventInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/11BD515F-D2A0-4526-8509-D23726DE0F46/a8/b47d55c3/BindingFlags.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/PosRotScaryEvent.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/GizmoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Gizmo/FailSafeMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaction/GrabbableBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Electric Puzzle/EleNodes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Electric Puzzle/ENodes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Gizmo/GizmoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/GenericScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/IScaryEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/EasyLocalization_Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/EasyLocalizationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/CameraShakeScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/testScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/DestructionScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EasingFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/ScaryInspector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Other/FootStepRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/RotateFoorStepEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/RotateFootStepEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Other/soundScriptableObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/FootTrailScaryEvent1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/FMOD Sound Event/CustomEventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/FMODScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/ScraryMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Custom Event System/EventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/ParticleEditorScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/ParticleSettingsEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/PosRotEditorScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/ScaryInspector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/SoundScrayEditorEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Editor/Custom Editor/SoundScaryEditorEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/FMOD Sound Event/Eventinfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Gizmo And Addons/GenericScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Gizmo And Addons/GizmoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Other/DestroySelfParticle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/Other/ParticleSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/BloodTrailScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/FmodScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/FootTrailScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/ObjectsShakeScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/ParticleScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/PosRotScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/ScaryEventAbstract.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/SoundScrayEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scary event System/ScaryEventUI/SoundScaryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Journal System/Code/Editor/JournalEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Journal System/Code/Scripts/JournalNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Electric Puzzle/ElectricNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Electric Puzzle/Electric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interaction/PressingButtonInteaction.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n4HUcoRV7YjnFCyX5yb6AF9lP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/OneDrive/Desktop/Trial\GP2_GROUP8_GAME.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Gento_PC\OneDrive\Desktop\Trial" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d55040dc-7d08-4ad9-b425-a9943c99f79b" name="Default Changelist" comment="" />
+      <created>1610642461558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610642461558</updated>
+      <workItem from="1610642466028" duration="2000" />
+      <workItem from="1610642552231" duration="62000" />
+      <workItem from="1610642652805" duration="11000" />
+      <workItem from="1610642880984" duration="101000" />
+      <workItem from="1610643036300" duration="56000" />
+      <workItem from="1610643119764" duration="16000" />
+      <workItem from="1610643205571" duration="16000" />
+      <workItem from="1610643511548" duration="15000" />
+      <workItem from="1610645296224" duration="65000" />
+      <workItem from="1610675949789" duration="5000" />
+      <workItem from="1610679160735" duration="220000" />
+      <workItem from="1610722357627" duration="74000" />
+      <workItem from="1610722448490" duration="37000" />
+      <workItem from="1610722501757" duration="13000" />
+      <workItem from="1610722527895" duration="49000" />
+      <workItem from="1610722613007" duration="22000" />
+      <workItem from="1610722983770" duration="335000" />
+      <workItem from="1610791959497" duration="24902000" />
+      <workItem from="1610946414717" duration="60884000" />
+      <workItem from="1611566441200" duration="18655000" />
+      <workItem from="1611654309407" duration="20877000" />
+      <workItem from="1611741105398" duration="38717000" />
+      <workItem from="1612098444316" duration="18306000" />
+      <workItem from="1612188849816" duration="505000" />
+      <workItem from="1612189572530" duration="73000" />
+      <workItem from="1612189793596" duration="603000" />
+      <workItem from="1612190468987" duration="3000" />
+      <workItem from="1612190514324" duration="5527000" />
+      <workItem from="1612257809709" duration="4535000" />
+      <workItem from="1612264181413" duration="2011000" />
+      <workItem from="1612275484693" duration="2229000" />
+      <workItem from="1612346385487" duration="1839000" />
+      <workItem from="1612349480510" duration="177000" />
+      <workItem from="1612349677523" duration="1158000" />
+      <workItem from="1612355983437" duration="489000" />
+      <workItem from="1612356636960" duration="472000" />
+      <workItem from="1612369716569" duration="458000" />
+      <workItem from="1612373728886" duration="5151000" />
+      <workItem from="1612431768064" duration="8293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1610643091400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091400" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1610643091401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610643091401" />
+    <state x="727" y="244" key="RiderGenerateDialog" timestamp="1612434423562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="244" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612434423562" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1610815433433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610815433433" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612437375621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612437375621" />
+    <state x="340" y="466" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1612375715072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="466" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612375715072" />
+  </component>
+</project>

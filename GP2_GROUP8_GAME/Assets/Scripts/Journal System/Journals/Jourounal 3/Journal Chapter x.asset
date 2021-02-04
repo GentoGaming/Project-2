@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4072954374510912072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 7161d79a-c49c-4baa-8ba7-94b33912014a
+  m_EditorClassIdentifier: 
+  imageNameT: letter5
+  orderT: 4
+  image: {fileID: 2800000, guid: 6b3f4c6048c33da42bc95366e3091174, type: 3}
+--- !u!114 &-2034132174804800894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 576e8179-36ff-49c8-83b4-3ad6ece73665
+  m_EditorClassIdentifier: 
+  imageNameT: letter1
+  orderT: 1
+  image: {fileID: 2800000, guid: 7d39e33b5e3be9d4e90b941d092e83f2, type: 3}
+--- !u!114 &-1369979204242194800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: d890e0bd-3edd-419a-91f6-c070d9f852cb
+  m_EditorClassIdentifier: 
+  imageNameT: letter2
+  orderT: 2
+  image: {fileID: 2800000, guid: 175547da679fa714eb9574b35e963f8e, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623b1d33405f0694d9439f323c3fad6b, type: 3}
+  m_Name: Journal Chapter x
+  m_EditorClassIdentifier: 
+  allJournalNodes:
+  - {fileID: -2034132174804800894}
+  - {fileID: -1369979204242194800}
+  - {fileID: 4174306068141051952}
+  - {fileID: -4072954374510912072}
+  folderPath: {fileID: 102900000, guid: 11267b7f8f790cc4bbc36680bdeb684d, type: 3}
+--- !u!114 &4174306068141051952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 58fcc9c5-babe-4643-b52e-5bde784fc341
+  m_EditorClassIdentifier: 
+  imageNameT: letter4
+  orderT: 3
+  image: {fileID: 2800000, guid: a09595fcd96725b489d918d7c05f8d66, type: 3}

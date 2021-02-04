@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9154266984085546387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 994f1ecb-2ffc-4630-85a6-9ddab1551d55
+  m_EditorClassIdentifier: 
+  imageNameT: JournalTest1
+  orderT: 1
+  image: {fileID: 2800000, guid: ec1805b71a63f7941a58de4c2d654978, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623b1d33405f0694d9439f323c3fad6b, type: 3}
+  m_Name: Journal Chapter x
+  m_EditorClassIdentifier: 
+  allJournalNodes:
+  - {fileID: -9154266984085546387}
+  - {fileID: 5252056125217500148}
+  - {fileID: 5826602847700169820}
+  - {fileID: 1745954925611178038}
+  folderPath: {fileID: 102900000, guid: 212d6bec9f26c5c4d8f3f4c47ceb9f7f, type: 3}
+--- !u!114 &1745954925611178038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: f5fc04c6-45c6-40eb-817c-013460b32271
+  m_EditorClassIdentifier: 
+  imageNameT: JournalTest3
+  orderT: 4
+  image: {fileID: 2800000, guid: 99e74c92dd4655b43a7eeb7b94340e0c, type: 3}
+--- !u!114 &5252056125217500148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 96a83c5f-ddc6-4acf-ae58-e3413ea0751f
+  m_EditorClassIdentifier: 
+  imageNameT: JournalTest4
+  orderT: 2
+  image: {fileID: 2800000, guid: d547995ad7a43fa40a5c07598a0a5e8d, type: 3}
+--- !u!114 &5826602847700169820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53ccee1bd9eb21840a54c915f610fd4e, type: 3}
+  m_Name: 51a0a2db-ed7d-462d-a692-82cdfc2a14fb
+  m_EditorClassIdentifier: 
+  imageNameT: JournalTest2
+  orderT: 3
+  image: {fileID: 2800000, guid: eab37e0be2bbcf7469e5fdb43cdee962, type: 3}
